@@ -6,7 +6,7 @@ Menu\
 Wybór kart\
 Win screen\
 Mechanika gry\
-Tekstury\
+Tekstury
 ## Zrobione
 ## Harmonogram
 ### Marzec
