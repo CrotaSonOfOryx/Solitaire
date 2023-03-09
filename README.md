@@ -2,11 +2,11 @@
 ## Opis
 Pasjans zrobiony w Unreal Engine.
 ## Do zrobienia
-### Menu
-### Wybór kart
-### Win screen
-### Mechanika gry
-### Tekstury
+Menu
+Wybór kart
+Win screen
+Mechanika gry
+Tekstury
 ## Zrobione
 ## Harmonogram
 ### Marzec
