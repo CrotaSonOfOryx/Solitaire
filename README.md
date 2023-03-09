@@ -1,19 +1,19 @@
-### Solitaire
+# Solitaire
 ## Opis
 Pasjans zrobiony w Unreal Engine.
 ## Do zrobienia
-# Menu
-# Wybór kart
-# Win screen
-# Mechanika gry
-# Tekstury
+### Menu
+### Wybór kart
+### Win screen
+### Mechanika gry
+### Tekstury
 ## Zrobione
 ## Harmonogram
-# Marzec
+### Marzec
 Menu i podstawy
-# Kwiecień
+### Kwiecień
 Mechanika gry
-# Maj
+### Maj
 Mechanika gry i wybór kart
-# Czerwiec
+### Czerwiec
 Win screen, poprawki, debugging itp. itd.
