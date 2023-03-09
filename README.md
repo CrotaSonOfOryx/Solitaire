@@ -1,2 +1,2 @@
 # Solitaire
-Moai
+
